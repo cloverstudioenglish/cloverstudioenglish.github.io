@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Clover Studio English</title>
+    <link>https://cloverstudioenglish.github.io/tags/</link>
+    <description>Recent content in Tags on Clover Studio English</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Nov 2019 15:00:00 +0600</lastBuildDate>
+    <atom:link href="https://cloverstudioenglish.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Good</title>
+      <link>https://cloverstudioenglish.github.io/tags/good/</link>
+      <pubDate>Fri, 01 Nov 2019 15:00:00 +0600</pubDate>
+      <guid>https://cloverstudioenglish.github.io/tags/good/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Quiz</title>
+      <link>https://cloverstudioenglish.github.io/tags/quiz/</link>
+      <pubDate>Fri, 01 Nov 2019 15:00:00 +0600</pubDate>
+      <guid>https://cloverstudioenglish.github.io/tags/quiz/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Photos</title>
+      <link>https://cloverstudioenglish.github.io/tags/photos/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      <guid>https://cloverstudioenglish.github.io/tags/photos/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
